@@ -1,4 +1,6 @@
+
 # AmirCodeX
+# Amirmohamad Ghanavati
 # cs50-project
 This is a 2 player game.
 2 Player penalty soccer game
