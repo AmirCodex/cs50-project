@@ -5,7 +5,7 @@
 This is a 2 player game.A simple game created in scratch for cs50. Click the green flag and the game will be begin.
 2 Player penalty soccer game
 
-<Video Demo:  <URL HERE ####
+<Video Demo:  <https://youtu.be/gZy67vX5ezs ####
 
  Hi my name is Amirmohammad Ghanavati . This is my final project for CS50xIran . This is a 2 player game.A simple game created in scratch for cs50. Click the green flag and the game will be begin.Here we have an scratch game for 2 players and they play at the same time.
  How to use: This game is using mouse and keyboard for play .  Player No. 1 can control the GOALIE (goalkeeper) with A and D keys on keyboard. Player No. 2 can move the ball and shoot with click on mouse. 
