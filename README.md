@@ -13,3 +13,5 @@ This is a 2 player game.A simple game created in scratch for cs50. Click the gre
 This game have 2 character and 1 soccer screen , after the flag clicked the game will be begin. 
 then someone needs to shoot the ball on the goal and someone else should defend the goal.
 i set the location of characters. for example , ball moves with mouse X and when flag clicked ball moves to the right position . 
+
+you can see and play this game here and enjoy ! ( <https://scratch.mit.edu/projects/621011809/ )
